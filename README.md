@@ -53,3 +53,15 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+1. Basic Prompt: Hinata anime wearing a haunting dress
+# output :
+     ![Prompt 1](https://github.com/user-attachments/assets/7a6569b8-1e62-45de-92ec-0cd83b630086)
+2. 1st generative AI prompt:
+# output:
+    ![Prompt 2](https://github.com/user-attachments/assets/c579478d-8e03-4e3f-b33b-760d1f96f238)
+3. 2nd generative AI prompt:
+# output:
+    ![Prompt 3](https://github.com/user-attachments/assets/5473ca38-465d-4994-8567-cefdfe1878a2)
+
+
+
