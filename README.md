@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :17/12/25
+# Reg. No. 25018414
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
